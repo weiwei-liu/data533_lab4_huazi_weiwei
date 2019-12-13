@@ -1,1 +1,0 @@
-'''Trading Account is a python package that allows users to track their transaction records and generate visualization for both balance and stock history. Candlestick may be applied as the primary drawing method.'''
