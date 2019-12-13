@@ -56,6 +56,9 @@ In the `account` sub package, the `Account` will realize balance, deposit and wi
 
 Visualization is a sub-package which consists of two modules: plotBalance and plotStock.
 
+Note: The overall coverage is 89%. The main reason is that some percentage are lost in the try-exception section.
+
+
 Please use demo file to preview and test the functionalities of sub-packages.
 
 [![Build Status](https://travis-ci.org/weiwei-liu/Data533-lab4.svg?branch=master)](https://travis-ci.org/weiwei-liu/Data533-lab4)
