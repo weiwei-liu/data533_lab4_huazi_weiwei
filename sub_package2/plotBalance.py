@@ -32,7 +32,7 @@ class plotBalance(plotStock.PlotStock):
             self.fig_path = 'figs/stock_plot.jpg'
             plt.savefig(self.fig_path)
 
-            plt.show()
+            # plt.show()
 
             # fig = go.Figure(data=[go.Candlestick(x=data['Date'],
             #                                      balance=data['balance'])])

@@ -14,9 +14,10 @@ class Test2(unittest.TestCase):
         self.stockInfo = ['Open', 'High', 'Low', 'Adj Close', 'balance']
 
     def tearDown(self):
-        figure = gImage.imread(self.pls.fig_path)
-        plt.imshow(figure)
-        plt.show()
+        #figure = gImage.imread(self.pls.fig_path)
+        #plt.imshow(figure)
+        #plt.show()
+        pass
 
     @classmethod
     def setUpClass(cls):
