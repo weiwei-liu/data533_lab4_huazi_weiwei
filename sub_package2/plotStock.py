@@ -49,7 +49,7 @@ class PlotStock:
                                                  high=data['High'],
                                                  low=data['Low'],
                                                  close=data['Adj Close'])])
-            fig.show()
+            # fig.show()
             #         plt.figure(figsize=(15, 5))
             #         plt.plot(data['Date'], data['Open'], label='Open')
             #         plt.plot(data['Date'], data['High'], label='High')
