@@ -61,4 +61,4 @@ Note: The overall coverage is 89%. The main reason is that some percentage are l
 
 Please use demo file to preview and test the functionalities of sub-packages.
 
-[![Build Status](https://travis-ci.org/weiwei-liu/Data533-lab4.svg?branch=master)](https://travis-ci.org/weiwei-liu/Data533-lab4)
+[![Build Status](https://travis-ci.org/weiwei-liu/data533_lab4_huazi_weiwei.svg?branch=master)](https://travis-ci.org/weiwei-liu/data533_lab4_huazi_weiwei)
